@@ -2,10 +2,5 @@ sword and spear
 Hello world
 World hello
 How about world
-test git gui&
-<<<<<<< HEAD
 
-add new
-add---------
-=======
->>>>>>> bf57805822ef2fc273832a81d0b64595ddaffe04
+awxon
